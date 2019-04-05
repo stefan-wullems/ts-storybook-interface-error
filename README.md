@@ -1,0 +1,1 @@
+# ts-storybook-interface-error
